@@ -1,3 +1,0 @@
-#iruentado a objetos
-
-
