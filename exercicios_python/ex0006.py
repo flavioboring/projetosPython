@@ -1,0 +1,10 @@
+#exercicio 6
+a = input('Digite algo: ')
+print('O tipo primitivo desse valor é: ', type(a))
+print('só tem espaços: ', a.isspace())
+print('é um número? ', a.isnumeric())
+print('é um alfabetico? ', a.isalpha())
+print('è um valor alfanumerico? ', a.isalnum())
+print('Está em maiusculas? ',  a.isupper())
+print('Está em minusculo? ', a.islower())
+print('Está captalizado ', a.istitle())
